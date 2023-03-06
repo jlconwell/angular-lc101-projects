@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Awesome Photos';
+  image1 = 'https://assets-prd.ignimgs.com/2021/12/14/leagueoflegends-1639513774570.jpg';
+  image2 = 'https://upload.wikimedia.org/wikipedia/en/1/1c/Diablo_IV_cover_art.png';
+  image3 = 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_34.jpg';
 
   constructor() { }
 
