@@ -1,8 +1,10 @@
 .movies {
     color: red;
     font-size: medium;
+    border-style: double;
 };
 
 h3 {
     text-align: center;
 }
+
